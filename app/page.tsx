@@ -120,7 +120,7 @@ export default function Home() {
       <div className="bg-blue-500 p-4">25. Complete the missing codes</div>
       <div className="bg-green-500 p-4">
         Spinner, findViewById, id, setOnItemSelectedListener, ArrayAdapter
-        {"<String>"}, R.layout_simple_spinner_item, adapter,
+        {"<String>"}, R.layout.simple_spinner_item, adapter,
         setDropDownViewResource, spin, adapter
       </div>
       <div className="bg-blue-500 p-4">26.</div>
