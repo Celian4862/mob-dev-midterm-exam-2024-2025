@@ -116,7 +116,7 @@ export default function Home() {
         getText, String, putExtra, {'"'}, i
       </div>
       <div className="bg-blue-500 p-4">24. Complete the missing codes</div>
-      <div className="bg-green-500 p-4">findViewById, id, ., {")"}</div>
+      <div className="bg-green-500 p-4">findViewById, id, ., {"("}</div>
       <div className="bg-blue-500 p-4">25. Complete the missing codes</div>
       <div className="bg-green-500 p-4">
         Spinner, findViewById, id, setOnItemSelectedListener, ArrayAdapter
